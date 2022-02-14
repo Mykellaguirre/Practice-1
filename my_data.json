@@ -8,13 +8,15 @@
   "education": [
     {
       "title": " HighSchool",
-      "degree": "Diploma",
-      "graduation date": "2015",
+      "description": "Diploma",
+      "period": "2015",
+      "employer": " Alta Loma High School"
     }
       {
       "title": " College",
-      "degree": "B.A Computer Engineering",
-      "graduation date": "2022",
+      "description": "B.A Computer Engineering",
+      "period": "2022",
+      "employer": "Cal State San Bernardino",
     }
 ]
       
