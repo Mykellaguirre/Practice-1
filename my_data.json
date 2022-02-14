@@ -5,6 +5,19 @@
   "phone": "(123)456-7890",
   "email": "name@mail.com",
   "introduction": "My name is Mykel Aguirre and Im a student at CSUSB graduating in Fall, I love working with robotics and controls systems, would love to work in electronics someday preferably in the entertainment industry ",
+  "education": [
+    {
+      "title": " HighSchool",
+      "degree": "Diploma",
+      "graduation date": "2015",
+    }
+      {
+      "title": " College",
+      "degree": "B.A Computer Engineering",
+      "graduation date": "2022",
+    }
+]
+      
   "experience":[
     {
       "title":"WEB DEVELOPER",
