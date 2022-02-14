@@ -41,7 +41,7 @@
       <div id="education" class="content-item">
         <div class="vertical-center">
           <h2>Education</h2>
-          <p>...</p>
+          <p>Csusb-B.A Computer Engineering</p>
         </div>
       </div>
       <hr>
