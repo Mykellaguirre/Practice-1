@@ -5,20 +5,6 @@
   "phone": "(123)456-7890",
   "email": "name@mail.com",
   "introduction": "My name is Mykel Aguirre and Im a student at CSUSB graduating in Fall, I love working with robotics and controls systems, would love to work in electronics someday preferably in the entertainment industry ",
-  "education": [
-    {
-      "title": " HighSchool",
-      "description": "Diploma",
-      "period": "2015",
-      "employer": " Alta Loma High School"
-    }
-      {
-      "title": " College",
-      "description": "B.A Computer Engineering",
-      "period": "2022",
-      "employer": "Cal State San Bernardino",
-    }
-]
       
   "experience":[
     {
