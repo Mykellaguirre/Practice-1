@@ -4,19 +4,19 @@
   "address": "5500 University Pkwy, San Bernardino, CA 92407",
   "phone": "(123)456-7890",
   "email": "name@mail.com",
-  "introduction": "A introduction of youself ...",
+  "introduction": "My name is Mykel Aguirre and Im a student at CSUSB graduating in Fall, I love working with robotics and controls systems, would love to work in electronics someday preferably in the entertainment industry ",
   "experience":[
     {
       "title":"WEB DEVELOPER",
       "employer":"CSUSB",
       "period":"March 2018 - Present",
-      "description":"A description of your experience with this job."
+      "description":We were tought how to create websites at CSUSB, we were taught Github and Heroku which is used for deploying out applications."
     },
     {
-      "title":"APPLICATION DEVELOPER",
-      "employer":"CSUSB",
-      "period":"March 2018 - 2021",
-      "description":"A description of your experience with this job."
+      "title":"Sound Technician",
+      "employer":"Diablo Sound",
+      "period":"March 2018 - 2022",
+      "description":"Setting up controls systems for Halloween Horror nights at Universal Studios Hollywood, helped set up trigggers which acted as toggles for our programs."
     }
   ]
 }
